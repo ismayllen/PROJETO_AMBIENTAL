@@ -1,0 +1,15 @@
+Entrar na pasta do projeto
+
+C:\Users\Ismayllen Masson>cd onedrive/desktop/PROJETO_AMBIENTAL
+
+Ativar o ambiente
+
+conda activate env_fito
+
+Abrir Jupyter
+
+jupyter lab
+
+Abrir DASHBOARD
+
+streamlit run 04_dashboard/app_relatorio.py
